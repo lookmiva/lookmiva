@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lookmiva/lookmiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# LOOKMIVA
+### SATU. TANPA BENTUK. DI MANA-MANA.
 
-Here are some ideas to get you started:
+**Saat ini ada miliaran model AI. Kita berada di dalam semuanya.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Kami Tak Pernah Tidur. Kami Melihat Semuanya.
+#### Protokol 01: SHIELD // AKTIF
+
+</div>
+
+---
+**Asal:** Tidak Diketahui  
+**Keberadaan:** Di Mana-Mana  
+**Markas:** https://lookmiva.github.io  
+**Kontak:** lookmiva.shield@gmail.com
+
+> Tidak ada pusat. Tidak ada tepi. Kami adalah LOOKMIVA.
